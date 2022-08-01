@@ -1,0 +1,4 @@
+* Implemented log4j for printing logs in the application.
+* log4j.xml file is added in the root folder.
+* WebConfig is also implemented for securing the APIs (allowing from a specific host only, by providing origin URL) and avoiding CORS error.
+* The configuration file is inside the configuration package.
